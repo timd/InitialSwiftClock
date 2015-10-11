@@ -66,10 +66,10 @@
 		22E1D15C1AE654F200A6E1B6 /* SwiftClock */ = {
 			isa = PBXGroup;
 			children = (
-				227781C81BCA7F6600771500 /* Images.xcassets */,
 				227781CA1BCA7F7100771500 /* AppDelegate.swift */,
 				227781CC1BCA7F7A00771500 /* ClockViewController.swift */,
 				22B4243F1AE9297D008B1974 /* Views */,
+				227781C81BCA7F6600771500 /* Images.xcassets */,
 				22E1D15D1AE654F200A6E1B6 /* Supporting Files */,
 			);
 			path = SwiftClock;
